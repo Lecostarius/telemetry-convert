@@ -5,6 +5,7 @@
  * S.Port communication code taken from openxvario project
  *
  * Author: Jochen Tuchbreiter
+ * Modified by Leco
 */
 
 
